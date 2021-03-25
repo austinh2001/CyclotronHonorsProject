@@ -1,6 +1,6 @@
+#Base Class for an Engine object
 class Engine:
-    objects = []
-
+    
     def __init__(self):
         pass
 
